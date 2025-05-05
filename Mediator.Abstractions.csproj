@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+
+      <PackageId>Mediator.Abstractions</PackageId>
+      <Version>1.0.0</Version>
+      <PackageIcon>icon.png</PackageIcon>
+      <PackageLicenseExpression>MIT</PackageLicenseExpression>
+      <Authors>Vitor Galache</Authors>
+      <Company>balta.io</Company>
+      <PackageDescription>Abstractions for Mediator</PackageDescription>
+      <Description>Abstractions for Mediator</Description>
+      <RepositoryUrl>https://github.com/vitor-galache/Mediator.Abstractions</RepositoryUrl>
+      <PackageProjectUrl>https://github.com/vitor-galache/Mediator.Abstractions</PackageProjectUrl>
+      <PackageTags>Domain;DDD;Mediator;Design Pattern;</PackageTags>
+      <Title>Mediator.Abstractions</Title>
+      <Summary>Abstractions for Mediator</Summary>
+    
+  </PropertyGroup>
+
+</Project>
