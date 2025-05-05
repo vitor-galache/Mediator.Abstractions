@@ -6,11 +6,10 @@
     <Nullable>enable</Nullable>
 
 
-      <PackageId>Mediator.Abstractions</PackageId>
+      <PackageId>Mediator.Abstractions.Course</PackageId>
       <Version>1.0.0</Version>
       <PackageLicenseExpression>MIT</PackageLicenseExpression>
       <Authors>Vitor Galache</Authors>
-      <Company>balta.io</Company>
       <PackageDescription>Abstractions for Mediator</PackageDescription>
       <Description>Abstractions for Mediator</Description>
       <RepositoryUrl>https://github.com/vitor-galache/Mediator.Abstractions</RepositoryUrl>
